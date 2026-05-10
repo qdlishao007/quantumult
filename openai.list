@@ -1,3 +1,7 @@
 # > OpenAi
 
 DOMAIN-SUFFIX,openai.com,🤖 openai
+DOMAIN-SUFFIX,chatgpt.com,🤖 openai
+DOMAIN-SUFFIX,x.ai,🤖 openai
+DOMAIN-SUFFIX,grok.com,🤖 openai
+DOMAIN-SUFFIX,claude.ai,🤖 openai
